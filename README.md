@@ -28,13 +28,13 @@ The application is a console-based residential management system that manages ap
 
 ## 📸 Screenshots
 
-![Main Menu](docs/menu.png)
+![Main Menu](condominium-management-system/docs/menu.png)
 
-![Payment Management](docs/payment.png)
+![Payment Management](condominium-management-system/docs/payment.png)
 
-![Payment Report](docs/paymentreport.png)
+![Payment Report](condominium-management-system/docs/paymentreport.png)
 
-![Data Report](docs/datareport.png)
+![Data Report](condominium-management-system\docs\datareport.png)
 
 ---
 
