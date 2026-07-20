@@ -1,18 +1,16 @@
-# 🏢 Condominium Management System
+# 🏢 Condominium Management System (Console App)
 
 Academic project developed during my first year of the **Computer Engineering degree at Sakarya Üniversitesi**.
 
 This project was developed for the **Introduction to Programming (Programlamaya Giriş)** course using **C++ and Object-Oriented Programming principles**.
 
-The application is a console-based residential management system that manages apartments, residents, payments, and access control for shared facilities such as swimming pools and fitness centers.
+The application is a console-based condominium management system that manages apartments, residents, payments, and access control for shared facilities such as swimming pools and fitness centers.
 
 ---
 
 ## 🛠 Technologies
 
 - C++
-- Object-Oriented Programming (OOP)
-- Text File Handling
 
 ---
 
@@ -28,12 +26,19 @@ The application is a console-based residential management system that manages ap
 
 ## 📸 Screenshots
 
+### Main Menu
 ![Main Menu](condominium-management-system/docs/menu.png)
+---
 
+### Payment Management
 ![Payment Management](condominium-management-system/docs/payment.png)
+---
 
+### Payment Report
 ![Payment Report](condominium-management-system/docs/paymentreport.png)
+---
 
+### Data Report
 ![Data Report](condominium-management-system/docs/datareport.png)
 
 ---
@@ -93,3 +98,19 @@ Create a **Console App (C++)** project, add `CondominiumSystem.cpp` to the proje
 - **Course:** Introduction to Programming
 - **Academic Year:** 2024–2025
 - **Project Grade:** 100/100
+
+---
+
+## 📌 Notes
+
+This repository preserves the original academic project as it was developed during my first year of university.
+
+This project is a Console App implementation of the same management domain developed as a Windows Forms application.
+
+For the original Windows Forms version, visit:
+
+https://github.com/Lucaskatalahali/condominium-management-system-desktop
+
+For more academic projects, visit my **Computer Engineering Projects** repository:
+
+https://github.com/Lucaskatalahali/computer-engineering-projects
