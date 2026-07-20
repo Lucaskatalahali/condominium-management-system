@@ -26,12 +26,16 @@ The application is a console-based condominium management system that manages ap
 
 ## 📸 Screenshots
 
+### Main Menu
 ![Main Menu](condominium-management-system/docs/menu.png)
 
+### Payment Management
 ![Payment Management](condominium-management-system/docs/payment.png)
 
+### Payment Report
 ![Payment Report](condominium-management-system/docs/paymentreport.png)
 
+### Data Report
 ![Data Report](condominium-management-system/docs/datareport.png)
 
 ---
