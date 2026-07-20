@@ -1,4 +1,4 @@
-# 🏢 Condominium Management System
+# 🏢 Condominium Management System (Console App)
 
 Academic project developed during my first year of the **Computer Engineering degree at Sakarya Üniversitesi**.
 
