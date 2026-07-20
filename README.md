@@ -107,10 +107,6 @@ This repository preserves the original academic project as it was developed duri
 
 This project is a Console App implementation of the same management domain developed as a Windows Forms application.
 
-For the original Windows Forms version, visit:
+For the original Windows Forms version, visit: https://github.com/Lucaskatalahali/condominium-management-system-desktop
 
-https://github.com/Lucaskatalahali/condominium-management-system-desktop
-
-For more academic projects, visit my **Computer Engineering Projects** repository:
-
-https://github.com/Lucaskatalahali/computer-engineering-projects
+For more academic projects, visit my **[Computer Engineering Projects](https://github.com/Lucaskatalahali/computer-engineering-projects)** repository.
