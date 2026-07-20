@@ -34,7 +34,7 @@ The application is a console-based residential management system that manages ap
 
 ![Payment Report](condominium-management-system/docs/paymentreport.png)
 
-![Data Report](condominium-management-system/datareport.png)
+![Data Report](condominium-management-system/docs/datareport.png)
 
 ---
 
