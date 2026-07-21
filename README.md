@@ -2,7 +2,7 @@
 
 ![Academic Project](https://img.shields.io/badge/Academic_Project-Sakarya_University-blue)
 
-![Course](https://img.shields.io/badge/Course-Introduction_to_Programming-success)
+![Course](https://img.shields.io/badge/Course-Introduction_to_Programming-blue)
 
 > 🎓 Part of my **[Computer Engineering Academic Portfolio](https://github.com/Lucaskatalahali/computer-engineering-projects)**.
 
