@@ -1,8 +1,9 @@
 # 🏢 Condominium Management System (Console App)
 
-Academic project developed during my first year of the **Computer Engineering degree at Sakarya Üniversitesi**.
+[![Academic Project](https://img.shields.io/badge/Academic_Project-Sakarya_University-blue)](https://github.com/Lucaskatalahali/computer-engineering-projects)
+![Course](https://img.shields.io/badge/Course-Introduction to Programming-orange)
 
-This project was developed for the **Introduction to Programming (Programlamaya Giriş)** course using **C++ and Object-Oriented Programming principles**.
+> 🎓 Part of my **Computer Engineering Academic Portfolio** at Sakarya University.
 
 The application is a console-based condominium management system that manages apartments, residents, payments, and access control for shared facilities such as swimming pools and fitness centers.
 
