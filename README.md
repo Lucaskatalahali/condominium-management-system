@@ -1,9 +1,9 @@
 # 🏢 Condominium Management System (Console App)
 
-[![Academic Project](https://img.shields.io/badge/Academic_Project-Sakarya_University-blue)](https://github.com/Lucaskatalahali/computer-engineering-projects)
-![Course](https://img.shields.io/badge/Course-Introduction_to_Programming-orange)
+![Academic Project](https://img.shields.io/badge/Academic_Project-Sakarya_University-blue)
+![Course](https://img.shields.io/badge/Course-Data_Structures-orange)
 
-> 🎓 Part of my **Computer Engineering Academic Portfolio** at Sakarya University.
+> 🎓 Part of my **[Computer Engineering Academic Portfolio](https://github.com/Lucaskatalahali/computer-engineering-projects)** at Sakarya University.
 
 The application is a console-based condominium management system that manages apartments, residents, payments, and access control for shared facilities such as swimming pools and fitness centers.
 
