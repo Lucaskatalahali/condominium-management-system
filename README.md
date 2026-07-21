@@ -106,4 +106,5 @@ Create a **Console App (C++)** project, add `CondominiumSystem.cpp` to the proje
 This repository preserves the original academic project as it was developed during my first year of university.
 
 - 💡 **Related Project:** A desktop-based version with GUI written in **C# (Windows Forms)** is available in the **[condominium-management-system-desktop](https://github.com/Lucaskatalahali/condominium-management-system-desktop)** repository.
+
 - 🎓 For more academic projects, visit my **[Computer Engineering Projects](https://github.com/Lucaskatalahali/computer-engineering-projects)** repository.
