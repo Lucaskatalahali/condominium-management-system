@@ -1,7 +1,7 @@
 # 🏢 Condominium Management System (Console App)
 
 [![Academic Project](https://img.shields.io/badge/Academic_Project-Sakarya_University-blue)](https://github.com/Lucaskatalahali/computer-engineering-projects)
-![Course](https://img.shields.io/badge/Course-Introduction to Programming-orange)
+![Course](https://img.shields.io/badge/Course-Introduction-to-Programming-orange)
 
 > 🎓 Part of my **Computer Engineering Academic Portfolio** at Sakarya University.
 
