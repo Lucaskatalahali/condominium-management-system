@@ -99,7 +99,6 @@ Create a **Console App (C++)** project, add `CondominiumSystem.cpp` to the proje
 - **Department:** Computer Engineering
 - **Course:** Introduction to Programming
 - **Academic Year:** 2024–2025
-- **Project Grade:** 100/100
 
 ---
 
