@@ -95,7 +95,7 @@ Create a **Console App (C++)** project, add `CondominiumSystem.cpp` to the proje
 
 ## 🎓 Academic Information
 
-- **University:** Sakarya Üniversitesi
+- **University:** Sakarya University 
 - **Department:** Computer Engineering
 - **Course:** Introduction to Programming
 - **Academic Year:** 2024–2025
